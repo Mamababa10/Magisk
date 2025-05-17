@@ -1,4 +1,4 @@
-plugins {
+https://github.com/Mamababa10/Magisk/blob/master/app%2Fapk%2F.gitignoreplugins {
     id("com.android.application")
     kotlin("android")
     kotlin("plugin.parcelize")
